@@ -1,0 +1,23 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "Testing Firebase Hosting",
+  "scripts": {
+    "test": "firebase emulators:start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristhoper23/firebase-test.git"
+  },
+  "keywords": [
+    "firebase",
+    "hosting",
+    "GitHub Actions"
+  ],
+  "author": "cristhoper23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristhoper23/firebase-test/issues"
+  },
+  "homepage": "https://github.com/cristhoper23/firebase-test#readme"
+}
